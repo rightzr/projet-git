@@ -1,1 +1,2 @@
-# projet-git
+## Projet Git et GitHub
+Participant : Gaelle et Bilal
